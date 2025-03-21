@@ -78,4 +78,4 @@ Sorulan soru: "GitHub README.md dosyası nasıl hazırlanır?"
 Öğrenilenler: Markdown formatında tablolar oluşturma, Git komutlarının açıklamalarını detaylandırma, commit mesajlarını daha açıklayıcı yazma.
 
 
-![]()
+![](https://github.com/barisersoyy23/git_hw_barisersoy/blob/master/img/image_barisersoy.png)
